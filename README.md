@@ -1,1 +1,1 @@
-![3](/Users/zxwang/Documents/TokenBucket/img.png)
+![3](../TokenBucket/img.png)
